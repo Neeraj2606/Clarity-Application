@@ -2,7 +2,7 @@
 
 Clarity is a web-based, interactive data quality auditing tool designed to help users quickly identify and resolve common data issues. Upload a CSV file, and Clarity provides a comprehensive suite of tools to profile, clean, and validate your data, including an intelligent fuzzy duplicate detection system.
 
-![Clarity Application Demo](https://user-images.githubusercontent.com/12345/placeholder.png)  <!-- Replace with a real screenshot of your app -->
+![Clarity Application Demo](./clarity-demo.jpg)
 
 ---
 
