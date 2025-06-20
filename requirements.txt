@@ -1,0 +1,6 @@
+streamlit
+pandas
+great-expectations
+scikit-learn
+thefuzz
+python-Levenshtein

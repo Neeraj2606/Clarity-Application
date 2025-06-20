@@ -1,0 +1,7 @@
+Name,Age,Email,Phone,Company
+John Smith,30,john.smith@email.com,555-1234,ABC Corp
+Jane Doe,,jane.doe@email.com,555-5678,XYZ Inc
+Bob Johnson,25,,555-9012,DEF Ltd
+Alice Brown,35,alice.brown@email.com,,GHI Co
+Charlie Wilson,,charlie.wilson@email.com,555-3456,
+David Lee,28,david.lee@email.com,555-7890,JKL Corp 

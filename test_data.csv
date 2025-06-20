@@ -1,0 +1,12 @@
+Name,Email,Phone,Company
+John Smith,john.smith@email.com,555-1234,ABC Corp
+J. Smith,j.smith@email.com,555-1234,ABC Corp
+John S.,john.s@email.com,555-1234,ABC Corporation
+Jane Doe,jane.doe@email.com,555-5678,XYZ Inc
+J. Doe,j.doe@email.com,555-5678,XYZ Inc
+Jane D.,jane.d@email.com,555-5678,XYZ Inc
+Bob Johnson,bob.johnson@email.com,555-9012,DEF Ltd
+Robert Johnson,robert.johnson@email.com,555-9012,DEF Ltd
+B. Johnson,b.johnson@email.com,555-9012,DEF Ltd
+Alice Brown,alice.brown@email.com,555-3456,GHI Co
+A. Brown,a.brown@email.com,555-3456,GHI Company 
